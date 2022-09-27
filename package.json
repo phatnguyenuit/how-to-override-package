@@ -1,0 +1,12 @@
+{
+  "name": "how-to-override-package",
+  "version": "1.0.0",
+  "description": "How to override NodeJS package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "PhatNguyen <phatnt.uit@gmail.com> (https://phatnguyenuit.github.io)",
+  "license": "MIT"
+}
